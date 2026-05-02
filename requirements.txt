@@ -1,0 +1,10 @@
+flask
+flask-cors
+torch
+transformers
+sentencepiece
+vosk
+rapidfuzz
+pydub
+requests
+gunicorn
